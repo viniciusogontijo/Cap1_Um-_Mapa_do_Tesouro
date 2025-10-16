@@ -1,4 +1,4 @@
-# 🌱 FarmTech Solutions – Fase 2
+# 🌱 FarmTech – Fase 2
 
 ## 🚀 Introdução
 Sistema de irrigação inteligente com ESP32, desenvolvido na Fase 2 do projeto FarmTech Solutions, simulando sensores de NPK, pH e umidade do solo no Wokwi.
