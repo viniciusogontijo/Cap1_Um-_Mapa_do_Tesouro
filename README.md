@@ -17,4 +17,4 @@ Sistema de irrigação inteligente com ESP32, desenvolvido na Fase 2 do projeto 
 A irrigação é acionada automaticamente quando a umidade está abaixo de 40%, o pH está neutro e os níveis de nutrientes estão adequados.
 
 ## 🎥 Vídeo de Demonstração
-[Assista no YouTube](link_do_video)
+[Assista no YouTube](https://youtu.be/HWMqe39e738)
